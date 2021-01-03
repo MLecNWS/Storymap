@@ -4,6 +4,7 @@
       align-items:center;
       font-family:georgia;
     }
+    
     #header{
      width:100%;
       opacity:1;
@@ -35,13 +36,16 @@
       flex-direction:column;
       align-items:center;
       width:75%;
+      color: sienna;
         
     }
     
     
     #main p span {
       font-weight:bold;
-      
-    }
     
+    }
+    p {
+      text-align: center;
+    }
     
